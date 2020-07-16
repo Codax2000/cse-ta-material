@@ -53,5 +53,5 @@ introductory CSE courses, like CSE 143 and 154. It covers:
 - how to install Apache Maven and configure VSCode to run it
 - how to change the settings to get VSCode to work how you want
 - how to install Git and connect to GitHub with a new SSH key
-- how to work with Node.js in VSCode
+- web development in VSCode (very basic)
 - useful extensions and what they do
